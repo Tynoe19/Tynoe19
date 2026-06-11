@@ -1,93 +1,69 @@
-<!-- Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Tinotenda%20Kondo&fontSize=40&fontColor=ffffff" />
+<!-- Typing animation header -->
 
 <h1 align="center">Hi 👋, I'm Tinotenda</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Web+Developer;Django+%2B+React+Developer;Aspiring+Cloud+Engineer;Open+to+Entry-Level+Roles&center=true&width=500&height=45">
-</p>
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Web+Developer;Learning+Cloud+Engineering;Open+to+Entry-Level+Roles&center=true&width=500&height=45">
+</h3>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 💻 Web Developer focused on **Django + React**
-- ☁️ Currently learning **Cloud Engineering (AWS/Azure fundamentals)**
-- 🧠 I learn by building real-world projects
-- 🚀 Actively seeking **entry-level / internship roles**
-- 🎯 Goal: Become a **Full-Stack + Cloud Engineer**
+* I build web applications using **Django & React**
+* Currently starting my journey into **Cloud Engineering**
+* I learn by **building projects** and sharing my progress here
+* Actively **looking for entry-level opportunities**
 
 ---
 
-## 🛠️ Tech Stack
-
-### 💻 Languages & Frameworks
-<p>
-  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,django,react,html,css" />
-</p>
-
-### 🗄️ Backend & Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,redis" />
-</p>
-
-### ☁️ Tools & DevOps
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux" />
-</p>
-
----
-
-## 🚧 Featured Projects
-
-> These matter more than stats — this is what recruiters look at.
-
-### 🛒 E-Commerce Backend (Django REST)
-- REST API with authentication (JWT)
-- Product & order management system
-- Cart + checkout logic
-
-### 🌦️ Weather App (React)
-- Live weather API integration
-- Search by city
-- Responsive UI
-
-### 📊 Admin Dashboard
-- Role-based UI
-- Data visualization charts
-- API-driven frontend
-
----
-
-## 📈 GitHub Stats
+## 🛠️ Tech & Tools
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tynoe19&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tynoe19&layout=compact&theme=tokyonight" />
+  <img src="https://skillicons.dev/icons?i=python,django,js,ts,react,html,css,git,mysql,redis" />
 </p>
 
 ---
 
-## 🌱 Currently Learning
+## 📊 GitHub Stats
 
-- AWS basics (EC2, S3, IAM)
-- Docker fundamentals
-- System design basics
-- Deployment (Render, Vercel, AWS)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Tynoe19&show_icons=true&theme=tokyonight&count_private=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tynoe19&theme=tokyonight&count_private=true" />
+</p>
+
+---
+
+## 📈 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tynoe19&layout=compact&theme=tokyonight&count_private=true" />
+</p>
 
 ---
 
 ## 📫 Contact Me
 
-- 📧 Email: **tinokondo2000@gmail.com**
-- 💻 GitHub: [Tynoe19](https://github.com/Tynoe19)
-- 🌍 Open to collaboration & internships
+* 📧 [tinokondo2000@gmail.com](mailto:tinokondo2000@gmail.com)
+* 💻 GitHub: [Tynoe19](https://github.com/Tynoe19)
 
 ---
 
 ## ⚡ Fun Fact
 
-I enjoy turning ideas into real working applications — from backend APIs to full deployed systems 🚀
+I enjoy **learning new technologies** and turning ideas into **real-world projects** 🚀
+
+
+<!--
+**Tynoe19/Tynoe19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->

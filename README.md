@@ -10,7 +10,7 @@
 ## 👨‍💻 About Me
 
 * I build web applications using **Django & React**
-* Currently starting my journey into **Cloud Engineering**
+* Currently building projects strengthening my skills**
 * I learn by **building projects** and sharing my progress here
 * Actively **looking for entry-level opportunities**
 

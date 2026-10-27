@@ -1,39 +1,76 @@
 <!-- Typing animation header -->
 
-<h1 align="center">Hi 👋, I'm Tinotenda</h1>
+<h1 align="center">Hi, I'm Tinotenda 👋</h1>
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Web+Developer;Learning+Cloud+Engineering;Open+to+Entry-Level+Roles&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Entry-Level+Software+Developer;Full-Stack+Web+Developer;React+%26+Django+Developer;Open+to+Junior+Roles&center=true&width=650&height=45" />
 </h3>
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-* I build web applications using **Django & React**
-* Currently building projects strengthening my skills**
-* I learn by **building projects** and sharing my progress here
-* Actively **looking for entry-level opportunities**
+I’m a software developer with a strong interest in building full-stack web applications and solving real-world problems through code.
+
+I enjoy working with:
+- Python and Django
+- JavaScript and TypeScript
+- React and responsive frontend design
+- APIs, databases, and deployment workflows
+
+I’m currently building projects to strengthen my skills in modern web development and I’m actively looking for entry-level opportunities where I can contribute, learn, and grow as a developer.
 
 ---
 
-## 🛠️ Tech & Tools
+## Featured Projects
+
+- [MarketGrains](https://github.com/Tynoe19/marketgrains)  
+  A full-stack marketplace application built with React + TypeScript on the frontend and Django REST Framework on the backend.
+
+- [Directory Analyzer](https://github.com/Tynoe19/Directory_analyzer)  
+  A Bash-based project that analyzes directories and displays useful information such as file count, folder count, size, and script count.
+
+---
+
+## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,js,ts,react,html,css,git,mysql,redis" />
+  <img src="https://skillicons.dev/icons?i=python,js,ts,react,html,css,django,git,mysql,postgresql,redis,vercel" />
 </p>
+
+### Languages
+- Python
+- JavaScript
+- TypeScript
+- HTML
+- CSS
+
+### Frameworks & Tools
+- React
+- Django
+- Django REST Framework
+- Git & GitHub
+- PostgreSQL
+- MySQL
+- Redis
+- Vercel
 
 ---
 
-## 📊 GitHub Stats
+## Current Focus
+
+- Building full-stack web applications
+- Improving API design and backend logic
+- Learning deployment and cloud-based workflows
+- Strengthening problem-solving and clean code practices
+
+---
+
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Tynoe19&show_icons=true&theme=tokyonight&count_private=true" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tynoe19&theme=tokyonight&count_private=true" />
 </p>
-
----
-
-## 📈 Most Used Languages
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tynoe19&layout=compact&theme=tokyonight&count_private=true" />
@@ -41,29 +78,13 @@
 
 ---
 
-## 📫 Contact Me
+## Contact
 
-* 📧 [tinokondo2000@gmail.com](mailto:tinokondo2000@gmail.com)
-* 💻 GitHub: [Tynoe19](https://github.com/Tynoe19)
+- Email: [tinokondo2000@gmail.com](mailto:tinokondo2000@gmail.com)
+- GitHub: [Tynoe19](https://github.com/Tynoe19)
 
 ---
 
-## ⚡ Fun Fact
+## Fun Fact
 
-I enjoy **learning new technologies** and turning ideas into **real-world projects** 🚀
-
-
-<!--
-**Tynoe19/Tynoe19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy learning new technologies, building practical projects, and turning ideas into working software solutions.
